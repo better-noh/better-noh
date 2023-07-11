@@ -15,7 +15,7 @@
 
 ### 💡Experience
 - LIKELION AIS 7 
-  - **[『데이터 분석 입문하기』](https://www.yes24.com/Product/Goods/119653445)** 책 집필 (Tableau 파트)
+  - **[『데이터 분석 입문하기』](https://www.yes24.com/Product/Goods/119653445)** 전자책 집필 (Tableau 파트)
 
 <br>
 
