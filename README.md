@@ -29,6 +29,14 @@
 <br>
 
 ### 💭 Blog
+<!-- alt는 이미지가 출력되지 않을 경우 표기되는 부가 설명같은 것 -->
+- 팀 프로젝트 : <a href="https://github.com/better-noh/ESG"><img alt="ESG 평가등급" title="ESG 평가등급 프로젝트" src="https://img.shields.io/badge/ESG%20project-6567a5?style=flat&logo=ESG&logoColor=white" /> <a href="https://github.com/better-noh/ZoomInZoomOut"><img alt="ZoomInZoomOut" title="ZoomInZoomOut 프로젝트" src="https://img.shields.io/badge/ZoomInZoomOut%20project-6567a5?style=flat&logo=ESG&logoColor=white" />
+
+<!--
+<a href="https://github.com/better-noh/ESG"><img alt="ESG 평가등급" title="ESG 평가등급 프로젝트" src="https://img.shields.io/badge/ESG%20project-6567a5?style=flat&logo=heroku&logoColor=white"/></a>
+[🍏](https://github.com/better-noh/ESG?style=flat&logo=Notion&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+-->
 &nbsp; 
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&section=footer)
