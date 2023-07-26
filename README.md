@@ -30,7 +30,7 @@
 
 ### 💭 Blog
 <!-- alt는 이미지가 출력되지 않을 경우 표기되는 부가 설명같은 것 -->
-- 팀 프로젝트 : <a href="https://github.com/better-noh/ESG"><img alt="ESG 평가등급" title="ESG 평가등급 프로젝트" src="https://img.shields.io/badge/ESG%20project-6567a5?style=flat&logo=ESG&logoColor=white" /> <a href="https://github.com/better-noh/ZoomInZoomOut"><img alt="ZoomInZoomOut" title="ZoomInZoomOut 프로젝트" src="https://img.shields.io/badge/ZoomInZoomOut%20project-6567a5?style=flat&logo=ESG&logoColor=white" />
+- 팀 프로젝트 : <a href="https://github.com/better-noh/portfolio/tree/main/olist_ecommerce"><img alt="Olist ecommerce" title="Olist ecommerce 프로젝트" src="https://img.shields.io/badge/Olist%20ecommerce%20analysis-6567a5?style=flat&logo=ESG&logoColor=white" /> <a href="https://github.com/better-noh/portfolio/tree/main/Zoom_Detection"><img alt="ZoomDetection" title="ZoomDetection 프로젝트" src="https://img.shields.io/badge/Zoom%20Detection-6567a5?style=flat&logo=ESG&logoColor=white" /> <a href="https://github.com/better-noh/portfolio/tree/main/ESG_Rating_analysis"><img alt="ESG 평가등급" title="ESG 평가등급 프로젝트" src="https://img.shields.io/badge/ESG%20Rating%20analysis-6567a5?style=flat&logo=ESG&logoColor=white" />
 
 <!--
 <a href="https://github.com/better-noh/ESG"><img alt="ESG 평가등급" title="ESG 평가등급 프로젝트" src="https://img.shields.io/badge/ESG%20project-6567a5?style=flat&logo=heroku&logoColor=white"/></a>
